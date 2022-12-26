@@ -1,1 +1,1 @@
-# Marchine-Learning
+# Machine-Learning
